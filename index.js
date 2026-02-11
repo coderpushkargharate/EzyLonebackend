@@ -51,6 +51,7 @@ const allowedOrigins = [
   'http://ezyloan.co.in',
   'https://ezyloan.co.in',
   'https://www.ezyloan.co.in',
+  'https://mediumvioletred-worm-272693.hostingersite.com',
   'http://srv1050467.hstgr.cloud',
   'https://srv1050467.hstgr.cloud'
 ].map(origin => origin.trim());
